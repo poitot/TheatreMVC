@@ -1,0 +1,14 @@
+D:\connortenantlocaltheatre\LocalTheatre.Data\bin\Debug\LocalTheatre.Data.dll.config
+D:\connortenantlocaltheatre\LocalTheatre.Data\bin\Debug\LocalTheatre.Data.dll
+D:\connortenantlocaltheatre\LocalTheatre.Data\bin\Debug\LocalTheatre.Data.pdb
+D:\connortenantlocaltheatre\LocalTheatre.Data\bin\Debug\EntityFramework.dll
+D:\connortenantlocaltheatre\LocalTheatre.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\connortenantlocaltheatre\LocalTheatre.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\connortenantlocaltheatre\LocalTheatre.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\connortenantlocaltheatre\LocalTheatre.Data\bin\Debug\EntityFramework.xml
+D:\connortenantlocaltheatre\LocalTheatre.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\connortenantlocaltheatre\LocalTheatre.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\connortenantlocaltheatre\LocalTheatre.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\connortenantlocaltheatre\LocalTheatre.Data\obj\Debug\LocalTheatre.Data.dll
+D:\connortenantlocaltheatre\LocalTheatre.Data\obj\Debug\LocalTheatre.Data.pdb
+D:\connortenantlocaltheatre\LocalTheatre.Data\obj\Debug\LocalTheatre.Data.csprojResolveAssemblyReference.cache
